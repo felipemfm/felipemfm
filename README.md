@@ -1,6 +1,7 @@
 ### Welcome to my Repository
 
-🌱 A highlight of my developer history so far, can be seen [here](https://felipemfm.github.io/).
+:computer: My [Portfolio](https://felipe-machado.netlify.app/) <br>
+:seedling: [Check out](https://felipemfm.github.io/) for a breakdown of my github project history.
 
 <!--
 **felipemfm/felipemfm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
