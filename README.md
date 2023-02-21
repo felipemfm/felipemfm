@@ -1,6 +1,5 @@
 ### Welcome to my Repository
 
-:computer: My [Portfolio](https://felipe-machado.netlify.app/) <br>
 :seedling: [Check out](https://felipemfm.github.io/) for a breakdown of my github project history.
 
 <!--
