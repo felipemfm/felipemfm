@@ -1,6 +1,3 @@
-### Welcome to my Repository
-
-:seedling: [Check out](https://felipemfm.github.io/) for a breakdown of my github project history.
 
 <!--
 **felipemfm/felipemfm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
